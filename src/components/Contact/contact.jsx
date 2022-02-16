@@ -2,6 +2,7 @@ import React from 'react';
 import Footer from '../Footer/footer';
 import { DropSection, DropTitle, Form, FormInput, InputEmail, InputExp, InputSubmit, InputText, Span, Textarea } from './style';
 const Contact = () => {
+    
     return ( <React.Fragment>
                 <DropSection>
             <div className="container">
